@@ -2,6 +2,6 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "ajitkumarsahoo93@gmail.com"#i change the id for testing` 
+MAINTAINER "valaxytech@gmail.com" 
 COPY ./webapp.war /usr/local/tomcat/webapps
 
