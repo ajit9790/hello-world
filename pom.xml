@@ -7,7 +7,7 @@
   <artifactId>project</artifactId>
   <packaging>war</packaging>
   <version>project1</version>
-  <name>project</name>
+  <name>hello-world</name>
   <url>http://maven.apache.org</url>
 
   <properties>
